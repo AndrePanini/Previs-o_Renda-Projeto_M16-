@@ -1,2 +1,11 @@
 # Previsao_Renda-Projeto_M16-
-Projeto realizado através do módulo 16 do curso ciência de dados.
+
+
+
+Uploading streamlit-projeto_2-2021-10-02-17-10-50.mov…
+
+
+
+
+
+
