@@ -1,9 +1,8 @@
 # Previsao_Renda-Projeto_M16-
 
-Projeto desenvolvido pelo streamlit
+Projeot desnvolvido por streamlit
 
-https://github.com/AndrePanini/Previs-o_Renda-Projeto_M16-/assets/138242374/43c94d53-4ec4-4817-b016-6d67925bd5bf
-
+https://github.com/AndrePanini/Previs-o_Renda-Projeto_M16-/assets/138242374/80303c55-f3a0-4212-8b8d-b503535addf8
 
 
 
